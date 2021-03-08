@@ -9,4 +9,5 @@
 - name: example_tagged_step
   tag: master
   service: codeship_example
-  command: ls
+  command: /bin/bash -c 'cd root'
+           /bin/bash -c 'ls'
